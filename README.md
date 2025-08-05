@@ -3,6 +3,8 @@ Overview:
 
 Main features:
      - A table of recommended ranges for humidity, temperature, and light for the top 20 most popular indoor plants
+     
      - An analytics page to see trends and the necessary action to take based on sensor data 
+     
      - An inventory of all the plants being tracked and stored inside the software's database
   
