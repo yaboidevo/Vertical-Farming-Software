@@ -1,4 +1,4 @@
-This is a unique software meant for a Vertical Farm, but can be implemented into any indoor plant system. It is capable of integrating with soil, moisture, and light sensors to most accurately assess the well-being of the garden based on input ranges for humidity, temperature, and light provided by the user based on their preferences. 
+This is a unique software meant for a Vertical Farm, but can be implemented into any indoor plant system. It is capable of integrating with soil, moisture, and light sensors to most accurately assess the well-being of the garden based on input ranges each plant should stay within for humidity, temperature, and light.
 
 
 Main features:
